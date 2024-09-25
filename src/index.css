@@ -1,0 +1,20 @@
+* {
+  font-family: system-ui, -apple-system;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+}
+
+a {
+  text-decoration: none;
+  color: #bb4636;
+  transition: 0.5s;
+}
+
+a:hover {
+  color: #bb4636;
+}
